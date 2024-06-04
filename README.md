@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam Santiago
-- 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning Prompt Engineering
+- 👀 I’m interested in Robotics, AI and Coding
+- 🌱 I’m currently learning Coding and AI
 - 💞️ I’m looking to collaborate on Robotics, Electronics and AI
 - 📫 How to reach me.
 - 😄 Pronouns: He/Him
